@@ -1,0 +1,1 @@
+# sodoka-miner-webgl
